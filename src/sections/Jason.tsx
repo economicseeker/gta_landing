@@ -14,7 +14,6 @@ const Jason = () => {
           start: "top top",
           end: "10% center",
           scrub: 2,
-          markers: true,
         },
       })
       .to(".first-vd", { opacity: 0, duration: 1, ease: "power1.inOut" });
